@@ -9,3 +9,4 @@ QR code (Quick Response code) Maker will allow you to make images that can be us
 ## Install
 This project was made in Lazarus and uses the QR – Code components LazBarCodes you will need this to run the project, you can find need to install them into your Lazarus IDE from the **Package->On Line Package Manager** and search for LazBarCodes. This project also uses some icons from lazarus-main-images-general_purpose.tar found here.
 
+[lazarus general purpose icons]([https://link-url-here.org](https://forum.lazarus.freepascal.org/index.php?topic=59266.0))
